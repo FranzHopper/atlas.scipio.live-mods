@@ -6,6 +6,20 @@
     "date": "2026-04-23",
     "tag": "event",
     "image": "https://raw.githubusercontent.com/FranzHopper/atlas.scipio.live-mods/main/news-images/icon.png",
-    "url": "https://discord.gg/ton-invite"
+    "url": "https://discord.gg/XUJyjdR2fu"
+  },
+  {
+    "id": "2026-04-20-maintenance",
+    "title": "Maintenance prévue dimanche",
+    "summary": "Le serveur sera indisponible de 10h à 12h pour une mise à jour.",
+    "date": "2026-04-20",
+    "tag": "maintenance"
+  },
+  {
+    "id": "2026-04-15-modpack",
+    "title": "Nouveau pack de mods",
+    "summary": "Ajout de Create 0.5.1 et Farmer's Delight.",
+    "date": "2026-04-15",
+    "tag": "update"
   }
 ]
