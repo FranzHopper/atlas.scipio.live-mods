@@ -7,5 +7,14 @@
     "tag": "event",
     "image": "https://raw.githubusercontent.com/FranzHopper/atlas.scipio.live-mods/main/news-images/icon.png",
     "url": "https://discord.gg/XUJyjdR2fu"
+  },
+  {
+    "id": "2026-04-25-update-1.0.1",
+    "title": "Version 1.0.1 disponible",
+    "summary": "La version 1.0.1 est maintenant disponible. Elle met en place le modpack Better MC [FORGE] BMC4 pour permettre la connexion au serveur.",
+    "date": "2026-04-25",
+    "tag": "update",
+    "image": "https://raw.githubusercontent.com/FranzHopper/atlas.scipio.live-mods/main/news-images/icon.png",
+    "url": ""
   }
 ]
